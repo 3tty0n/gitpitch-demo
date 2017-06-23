@@ -1,6 +1,6 @@
 ## GitPitch Demo
 
-This is the example application for [GitPitch](https://gitpitch.com/).
+This is the sample application for [GitPitch](https://gitpitch.com/).
 
 +++
 
